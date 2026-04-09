@@ -1,20 +1,7 @@
-# Virtual environment
 venv/
-
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
-
-# Environment variables - HAS YOUR PASSWORDS
 .env
-
-# Database files
-*.db
-
-# VS Code
-.vscode/
-
-# Windows
-Thumbs.db
-desktop.ini
+*.log
+*.txt
+get-pip.py
