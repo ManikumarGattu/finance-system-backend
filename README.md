@@ -25,7 +25,8 @@
 
 ## 📸 Project Interface
 
-![Finance Backend API Swagger UI](https://finance-system-backend-oxup.onrender.com/docs)
+![Finance Backend API Swagger UI](Screenshots/screenshot1.png)
+![Finance Backend API Swagger UI](Screenshots/screenshot2.png)
 
 > 🔗 **Live Swagger UI** → [https://finance-system-backend-oxup.onrender.com/docs](https://finance-system-backend-oxup.onrender.com/docs)
 
